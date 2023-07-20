@@ -1,0 +1,6 @@
+raw
+rare
+medium-rare
+medium 
+medium-well
+well-done 
