@@ -3,6 +3,7 @@ Steak Rating Project
 
 
 Add short description of project here > 
+
 This program takes in an image of a steak and tells the user how that steak is cooked. The 6 options are raw, rare, medium-rare, medium, medium-well, and well-done. The image will fal into one of the 6 categories
 
 
