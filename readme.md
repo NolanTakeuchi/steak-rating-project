@@ -1,7 +1,7 @@
 # Steak Rating Project
 
 
-This program takes in an image of a steak and tells the user how that steak is cooked. The 6 options are raw, rare, medium-rare, medium, medium-well, and well-done. The image will fall into one of the 6 categories
+This program takes in an image of a steak and tells the user how that steak is cooked. The 6 options are raw, rare, medium-rare, medium, medium-well, and well-done. The image will fall into one of the 6 categories. This vision for this project was to be used in restaraunts and other places where it could be beneficial to know how aa steak has been cooked.
 
 
 This is an image of a steak cooked well-done and the program classified the image as well-done with high accuracy(([https://github.com/NolanTakeuchi/steak-rating-project/assets/139922542/88b964f6-6be4-4b6e-bb9c-3be9bf995228](https://imgur.com/v7ka28o))
